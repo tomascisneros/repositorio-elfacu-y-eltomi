@@ -1,3 +1,2 @@
 # repositorio-elfacu-y-eltomi
-soy tomas y soy facu
-el cijura
+Hola estamos hacinedo el tp de sitemas operativos
